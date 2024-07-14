@@ -11,7 +11,7 @@ Topics Covered
 # Getting Started 
 Clone the repository:
 ```bash
-git clone https://github.com/DespCAP/numerical-techniques-ep301.git
+git clone https://github.com/DespCAP/Numerical-Techniques-EP301.git
 ```
 Navigate to the desired folder and follow the instructions provided in the README files.
 
