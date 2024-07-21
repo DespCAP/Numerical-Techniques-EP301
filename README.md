@@ -38,3 +38,4 @@ import <file_name>
 
 help(<file_name>)
 ```
+Alternatively, you can also check out the Wiki for the function descriptions.
